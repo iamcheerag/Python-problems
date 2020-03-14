@@ -1,4 +1,4 @@
-# Introduction-to-python
-This repository contains few programming problems, which will clear the basics of python.
-Every folder has 2 sub folders 1. lectures 2. Assignment 
-Also you can find the problem statement with input format and expected output
+# Introduction-to-python (coding ninjas foundation)
+This repository contains basic to advance python programming problems, module is designed in such a fashion that it will clear all the basics concepts of python
+<br/>Every folder has 2 sub folders <br/> 1. lectures <br/> 2. Assignment <br/>
+Every .py file contains problem statement , input and Output -- highly recommend if try problem before looking into solutions.
